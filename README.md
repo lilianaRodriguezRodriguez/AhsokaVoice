@@ -1,2 +1,1 @@
-# AhsokaVoice
-Red social llamada "AhsokaVoice"
+# AhsokaVoice-personal
